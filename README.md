@@ -1,6 +1,6 @@
 
 <div align="center">
-    ### Hi,welcome！
+    ### Hi,welcome！ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 </div>
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
