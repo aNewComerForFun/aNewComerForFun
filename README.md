@@ -1,5 +1,12 @@
-### Hi,welcome！
 
+<div align="center">
+  
+    ### Hi,welcome！
+</div>
+<div align="center">
+  
+    <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 this is a new comer for more fun. 👋
