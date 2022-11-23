@@ -1,12 +1,11 @@
-
 <div align="center">
     ### Hi,welcome！ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+    <span align="center">
+    ### Hi,welcome！ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+    </span>
 </div>
 
 
-<span align="center">
-    ### Hi,welcome！ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
-</span>
 
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
