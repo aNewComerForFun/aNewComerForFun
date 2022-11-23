@@ -3,6 +3,11 @@
     ### Hi,welcome！ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 </div>
 
+
+<span align="center">
+    ### Hi,welcome！ ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+</span>
+
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
 
 this is a new comer for more fun. 👋
