@@ -5,7 +5,7 @@
 
 <table><tr><td bgcolor=yellow>背景色</td></tr></table>
 
-package main
+**package main**
 
 import (
 	"fmt"
