@@ -1,7 +1,7 @@
-### Hi,this is a new comer for more fun. 👋
+### Hi,my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visiter,this is a new comer for more fun. 👋
 ![Visitor Count](https://camo.githubusercontent.com/810fafff9494605b8da8804af6bc6a38af0aaaf160ea7898b20583b9441bee76/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323130383330303031393535362e676966)
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
 
